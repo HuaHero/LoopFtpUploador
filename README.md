@@ -4,3 +4,5 @@ This is a solution for upload a fixed-formatted-named record file which is not g
 #platform
 
 Windows,Visual Studio 2012/VC6 ……
+
+Sorry for can't upload the exe file,but I think it's simple for readers or users to build and compile to get the exe file.
